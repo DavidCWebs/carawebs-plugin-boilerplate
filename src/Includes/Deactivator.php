@@ -20,7 +20,7 @@ namespace Carawebs\PluginName\Includes;
  * @subpackage Carawebs_Plugin_Boilerplate/includes
  * @author     Your Name <email@example.com>
  */
-class Carawebs_Plugin_Boilerplate_Deactivator {
+class Deactivator {
 
 	/**
 	 * Short Description. (use period)
